@@ -15,7 +15,7 @@ checkuser --create-service --config-port 5000 --start
 
 ### Ou
 ```
-curl -sL https://raw.githubusercontent.com/https://github.com/alfainternet/CheckUser/master/install.sh > install.sh; chmod a+x install.sh; ./install.sh
+curl -sL https://raw.githubusercontent.com/CheckUser/master/install.sh > install.sh; chmod a+x install.sh; ./install.sh
 ```
  *Opcao 1*
 
